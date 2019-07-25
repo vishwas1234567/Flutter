@@ -1,6 +1,6 @@
 # flutter_app2
 
-A new Flutter application.
+A new Flutter application.You can take the dart file and start adding the list view functions in the Dart as a stateless widget functions
 
 ## Getting Started
 
